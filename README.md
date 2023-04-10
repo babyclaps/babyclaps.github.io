@@ -1,3 +1,3 @@
 # Johnny-Rodriguez-personal-site
 
-https://babyclaps.github.io
+# https://babyclaps.github.io
